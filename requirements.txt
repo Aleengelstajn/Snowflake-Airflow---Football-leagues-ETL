@@ -1,0 +1,11 @@
+lxml
+pandas
+snowflake-connector-python
+apache-airflow-providers-common-sql
+apache-airflow-providers-snowflake
+apache-airflow-providers-snowflake[common.sql]
+snowflake-sqlalchemy
+apache-airflow-providers-amazon
+requests
+urllib3
+openpyxl
